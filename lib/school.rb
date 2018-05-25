@@ -13,4 +13,6 @@ class School
     @roster[grade]
   end
   
-  def
+  def sort 
+    sorted_hash = {} 
+    
